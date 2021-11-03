@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pbarapatre10
 - 👀 I’m interested in Coding, Software Development
 - 🌱 I’m currently learning Software Design
-- 💞️ I’m looking to collaborate on Platform team - Frameworks Squad
+- 💞️ I’m looking to collaborate on Platform team - Frameworks Squad at Harness
 - 📫 How to reach me Prateek.Barapatre {at} harness {dot} io [email] / pbarapatre10 [slack]
 
 <!---
